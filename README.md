@@ -1,0 +1,4 @@
+ng-sentials
+===========
+
+AngularJS Essentials
